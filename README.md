@@ -1,0 +1,1 @@
+docker run --rm -p 9000:80 amatyukh/local-qa-client
